@@ -322,3 +322,27 @@ git push origin fix-typo
 * git push origin fix-typo: This command pushes the fix-typo branch to the remote repository named origin
 
 #### 4.Open a pull request on GitHub.
+
+# Part 4: Additional Practice
+
+## Task 16: Simulate Team Collaboration
+
+#### 1. Create a repository and share it with a friend
+#### 2. Both make changes to the same file simultaneously.
+
+#### 3. Practice resolving merge conflicts and pushing changes.
+
+
+# Task 17: Git Ignore
+
+## 1. Create a .gitignore file:
+
+```
+echo "node_modules/" > .gitignore
+```
+
+## 2.Add files and ensure ignored files are not staged:
+
+```
+git add .
+```
